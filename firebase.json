@@ -1,8 +1,7 @@
 {
   "hosting": {
-    "site": "lentek",
-    "site": "project-118b1",
-    "public": ".",
+    "site": "lentek",    
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
